@@ -22,4 +22,4 @@ The Commenting system is powered by  <a href="https://utteranc.es/">utteranc.es<
 
 ![image](https://user-images.githubusercontent.com/61585443/172446800-9559b132-87a4-47f7-8e68-29cfd9710059.png)
 
-## Completed 
+## Completed .
